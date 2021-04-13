@@ -8,5 +8,5 @@ MabelOS Falls Under The MCSPSL Licence. Please Read <a href="https://web.mabelis
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0 Build 2   | :white_check_mark: |
-| < 1.0.0 Build 1 | :x:                |
+| 1.0.0 Build 3   | :white_check_mark: |
+| < 1.0.0 Build 2 | :x:                |
