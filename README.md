@@ -12,4 +12,5 @@ Note: All Builds That Are Not The Current Build Will Be Placed In The "Archive" 
 | ------- | ------------------ |
 | 1.0.1 Build 10   | :white_check_mark: |
 | 1.0.0 Build 9   | :white_check_mark: |
-| < 1.0.0 Build 8 | :x:                |
+| 1.0.0 Build 8   | :white_check_mark: |
+| < 1.0.0 Build 7 | :x:                |
