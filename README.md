@@ -10,6 +10,6 @@ Note: All Builds That Are Not The Current Build Will Be Placed In The "Archive" 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0 Build 7   | :white_check_mark: |
-| 1.0.0 Build 3   | :white_check_mark: |
-| < 1.0.0 Build 2 | :x:                |
+| 1.0.1 Build 10   | :white_check_mark: |
+| 1.0.0 Build 9   | :white_check_mark: |
+| < 1.0.0 Build 8 | :x:                |
