@@ -1,5 +1,5 @@
 # MabelOS
-MabelOS - The Official MabelisYT C# Operating System Repository
+MabelOS - The Official MabelisYT C Operating System Repository
 
 ## Licencing
 MabelOS Falls Under The MCSPSL Licence. Please Read <a href="https://web.mabelisyt.co/mcspsl">The Licence</a> for more info.
@@ -10,7 +10,7 @@ Note: All Builds That Are Not The Current Build Will Be Placed In The "Archive" 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.1 Build 10   | :white_check_mark: |
-| 1.0.0 Build 9   | :white_check_mark: |
-| 1.0.0 Build 8   | :white_check_mark: |
-| < 1.0.0 Build 7 | :x:                |
+| 0.0.3 Build 32   | :white_check_mark: |
+| 0.0.3 Build 31   | :white_check_mark: |
+| 0.0.3 Build 30   | :white_check_mark: |
+| < 0.0.3 Build 29 | :x:                |
